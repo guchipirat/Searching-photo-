@@ -19,6 +19,3 @@
 | XGBoost | 0.1418 | 0.1976 |
 
 XGBoost снизил MAE приблизительно на 22%.
-
-```bash
-pip install -r requirements.txt
